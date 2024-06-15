@@ -3,7 +3,7 @@
 
 ## Descriptions 
 
-Ce programme et utiliser strictement pour pentester les site et non pour Ddos un serveur ou pour hacker des connections web Nous ne seront en aucun cas affecter si des personnes utilise se pentest pour malveillance
+Ce programme et utiliser strictement pour pentester les site et non pour DDos un serveur ou pour hacker des connections web Nous ne seront en aucun cas affecter si des personnes utilise se pentest pour malveillance
 
 1. **Récuperé le code de sont site** : Les récuperations se font par url ou pas nom de dommain
 2. **quel et son adresse ip** : La fonctions qui permet de savoir quel et l'adresse ip du serveur hébergeur
