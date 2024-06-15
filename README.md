@@ -18,4 +18,8 @@ Vous aurais besoins d'installer une bibliotheque qui se nomme **Requests**
 ```bash
 pip install requests
 ```
+## Les fonctions :
 
+Les fonctions sont réuni dans start.py qui permet de lancer un programme prés preparer et qui fonctionne. Il est doté de 3 options mais il y en aura plus que sa a l'avenir 
+
+# Pour plus d'info rendez vous sur 
