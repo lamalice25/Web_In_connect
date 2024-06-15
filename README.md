@@ -17,3 +17,7 @@ Vous aurais besoins d'installer une bibliotheque qui se nomme **Requests**
 
 ```bash
 pip install requests
+```
+```bash
+pip install sqlite3
+```
