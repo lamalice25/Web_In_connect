@@ -23,11 +23,11 @@ def DDOS_test():
                     return f"Erreur lors de la requête: {e}"
 
             # Nombre de requêtes
-            nombre_acces = 10000000000000000000000000000000
+            nombre_acces = 10000000000000000000000000000000000000000000000000000000000000000000000000000000
 
             # Utilisation de ThreadPoolExecutor pour exécuter des requêtes en parallèle
             # Limiter le nombre de workers pour éviter de surcharger le système
-            max_workers = 100000000000000000
+            max_workers = 100000000000000000000000000000000000000000000000000000000000000000000000000000000
 
             with ThreadPoolExecutor(max_workers=max_workers) as executor:
                 futures = [executor.submit(access_server) for _ in range(nombre_acces)]
