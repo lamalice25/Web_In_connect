@@ -3,13 +3,13 @@ from get_ip import get_ip
 from recup_test import recup
 
 
-print('    ***********')
+print('   ************')
 print('  *             *')
 print(' *               *')
 print('*  web in connect *')  
 print(' *               *')
 print('  *             *')
-print('   *************\033[0m')
+print('   ************')
 
 print('=======================')
 
