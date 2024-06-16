@@ -22,4 +22,4 @@ pip install requests
 
 Les fonctions sont réuni dans start.py qui permet de lancer un programme prés preparer et qui fonctionne. Il est doté de 3 options mais il y en aura plus que sa a l'avenir 
 
-# Pour plus d'info rendez vous sur 
+# Pour plus d'info rendez vous sur [Le Wiki](https://github.com/lamalice25/Web_In_connect/wiki)
